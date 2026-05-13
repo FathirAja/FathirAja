@@ -1,61 +1,68 @@
 # Halo 👋, Saya Fathir
 
-💻 Pemula di bidang Web Development dari Indonesia
-🎓 Pelajar yang suka belajar teknologi dan pemrograman
-🌱 Sedang belajar **HTML, CSS, JavaScript, PHP, dan REST API**
-🚀 Tertarik pada Web Development, BackEnd Development, dan project kreatif
+🎓 Seorang pelajar dari Indonesia yang memiliki minat besar di dunia teknologi dan pemrograman.
+💻 Saat ini saya berfokus mempelajari **Backend Development** dan sedang mendalami framework **Laravel**.
+🚀 Tujuan saya adalah menjadi seorang **Backend Developer** yang mampu membangun sistem yang efisien, aman, dan bermanfaat.
 
 ---
 
 ## 🚀 Tentang Saya
 
-* 🔭 Sedang membuat project web sederhana
-* 📚 Belajar frontend dan backend development
-* ⚡ Sering membuat website sederhana, poster, dan aplikasi sederhana
+* 📚 Sedang belajar backend development
+* 🌱 Fokus memahami Laravel dan konsep backend modern
+* 🔧 Suka membuat sistem web dan API sederhana
+* 🧠 Tertarik pada logika pemrograman dan pengelolaan data
+* ⚡ Terus mengembangkan skill coding dan problem solving
 
 ---
 
-## 🛠️ Skill
+## 🛠️ Teknologi yang Dipelajari
 
-### Frontend
+### Backend
+
+* PHP
+* Laravel
+* REST API
+* JSON
+
+### Frontend Dasar
 
 * HTML
 * CSS
 * JavaScript
 
-### Backend
-
-* PHP
-* JSON
-
 ### Tools
 
-* Antigravity
+* VS Code
 * Laragon
 * Git & GitHub
+* Postman
 
 ---
 
-## 📌 Target Saya
+## 🎯 Target Saya
 
-* Belajar JavaScript lebih dalam
-* Meningkatkan skill backend PHP
-* Membuat desain UI/UX yang lebih bagus
+* Menjadi Backend Developer profesional
+* Menguasai Laravel lebih dalam
+* Belajar database dan API development
+* Membuat project backend yang lebih kompleks
+* Mengembangkan skill clean code dan security
 
 ---
 
 ## 📊 Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FathirAja&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FathirAja\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathirAja&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathirAja\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🌐 Sosial Media
 
-* Instagram: `@fathirm.a.r`
-* GitHub: `github.com/FathirAja`
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fathirm.a.r)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FathirAja)
 
 ---
 
