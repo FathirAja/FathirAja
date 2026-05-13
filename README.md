@@ -33,7 +33,7 @@
 
 ### Tools
 
-* VS Code
+* Antigravity
 * Laragon
 * Git & GitHub
 * Postman
