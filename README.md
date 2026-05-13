@@ -1,6 +1,6 @@
 # Halo 👋, Saya Fathir
 
-🎓 Seorang pelajar dari Indonesia yang memiliki minat besar di dunia teknologi dan pemrograman.
+🎓 Seorang pelajar dari sekolah SMK Negeri 1 Maja yang memiliki minat besar di dunia teknologi dan pemrograman.
 💻 Saat ini saya berfokus mempelajari **Backend Development** dan sedang mendalami framework **Laravel**.
 🚀 Tujuan saya adalah menjadi seorang **Backend Developer** yang mampu membangun sistem yang efisien, aman, dan bermanfaat.
 
