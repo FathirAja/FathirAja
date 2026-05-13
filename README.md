@@ -52,13 +52,7 @@
 
 ## 📊 Statistik GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FathirAja&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathirAja&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathirAja&theme=tokyonight)
 
 ---
 
