@@ -46,9 +46,9 @@
 
 ## 📊 Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FathirAja\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FathirAja&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathirAja\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathirAja&layout=compact&theme=tokyonight)
 
 ---
 
