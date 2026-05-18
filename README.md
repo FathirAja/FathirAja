@@ -1,67 +1,60 @@
-# Halo 👋, Saya Fathir
+# Fathir | Backend Developer Student
 
-🎓 Seorang pelajar dari sekolah SMK Negeri 1 Maja yang memiliki minat besar di dunia teknologi dan pemrograman.
-💻 Saat ini saya berfokus mempelajari **Backend Development** dan sedang mendalami framework **Laravel**.
-🚀 Tujuan saya adalah menjadi seorang **Backend Developer** yang mampu membangun sistem yang efisien, aman, dan bermanfaat.
+Pelajar dari SMK Negeri 1 Maja yang memiliki minat besar di dunia teknologi dan rekayasa perangkat lunak. Saat ini, saya fokus mendalami **Backend Development** dengan spesialisasi pada ekosistem **PHP & Laravel** untuk membangun sistem web yang efisien, aman, dan *scalable*.
 
 ---
 
 ## 🚀 Tentang Saya
 
-* 📚 Sedang belajar backend development
-* 🌱 Fokus memahami Laravel dan konsep backend modern
-* 🔧 Suka membuat sistem web dan API sederhana
-* 🧠 Tertarik pada logika pemrograman dan pengelolaan data
-* ⚡ Terus mengembangkan skill coding dan problem solving
+* **Fokus Belajar:** Pengembangan API, arsitektur backend modern, dan manajemen basis data.
+* **Pendekatan Kerja:** Menyukai tantangan logika, optimasi pengelolaan data, dan pemecahan masalah (*problem solving*).
+* **Komitmen:** Terus mengembangkan kebiasaan menulis kode yang bersih (*clean code*) dan memperhatikan aspek keamanan aplikasi.
 
 ---
 
-## 🛠️ Teknologi yang Dipelajari
+## 🛠️ Stack Teknologi & Tools
 
-### Backend
-
-* PHP
-* Laravel
-* REST API
-* JSON
+### Backend & Database
+* **Bahasa:** PHP, JavaScript (Node.js)
+* **Framework:** Laravel, Express.js
+* **Konsep:** RESTful API, JSON, CRUD Architecture
 
 ### Frontend Dasar
+* HTML5, CSS3, JavaScript (ES6)
 
-* HTML
-* CSS
-* JavaScript
-
-### Tools
-
-* Antigravity
-* Laragon
-* Git & GitHub
-* Postman
+### Tools & Ekosistem
+* **Lingkungan Pengembangan:** Laragon, Antigravity
+* **Version Control:** Git & GitHub
+* **Pengujian API:** Postman
 
 ---
 
-## 🎯 Target Saya
+## 📌 Project yang Sedang Dikembangkan
 
-* Menjadi Backend Developer profesional
-* Menguasai Laravel lebih dalam
-* Belajar database dan API development
-* Membuat project backend yang lebih kompleks
-* Mengembangkan skill clean code dan security
+* **Bookshelf API** – Pengembangan API untuk manajemen data buku menggunakan arsitektur modern.
+* **School Data Management & Dashboard** – Sistem informasi dan *dashboard* berbasis PHP untuk efisiensi pengelolaan data sekolah.
+* **Aplikasi Pendataan Siswa** – Implementasi sistem CRUD dasar dengan fokus pada validasi data yang aman.
+
+---
+
+## 🎯 Target & Rencana Pembelajaran
+
+* Menguasai desain arsitektur database relasional yang lebih kompleks.
+* Memperdalam implementasi keamanan pada Laravel (Autentikasi, Authorization, Sanitize Data).
+* Mempelajari konsep *Cloud Deployment* dan integrasi *Third-Party API*.
 
 ---
 
 ## 📊 Statistik GitHub
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathirAja&theme=tokyonight)
+![Statistik GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathirAja&theme=tokyonight)
 
 ---
 
-## 🌐 Sosial Media
+## 🌐 Hubungi Saya
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fathirm.a.r)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FathirAja)
 
 ---
-
-⭐ Terima kasih sudah mengunjungi profil GitHub saya!
+*Terima kasih telah mengunjungi profil saya.*
